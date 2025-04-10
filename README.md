@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ehsanrasheed
-- 👀 I’m interested in c programing and python.
-- 🌱 I’m currently learning c and python.
-- 💞️ I’m looking to collaborate on python and c.
+- 👀 I’m interested in Mern stack and Reactnative.
+- 🌱 I’m currently learning ReactNative.
+- 💞️ I’m looking to collaborate on Mern.
 - 📫 How to reach me email me.
 
 <!---
