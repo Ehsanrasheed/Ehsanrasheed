@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ehsanrasheed
-- 👀 I’m interested in Mern stack and Reactnative.
-- 🌱 I’m currently learning ReactNative.
-- 💞️ I’m looking to collaborate on Mern.
-- 📫 How to reach me email me.
+👋 Hi, I'm @Ehsanrasheed
+🚀 Aspiring DevOps Engineer with a background in MERN Stack
+🌱 Currently learning Kubernetes, Terraform, and AWS
+🛠️ Working with Docker, GitHub Actions, Helm, and CI/CD pipelines
+📫 Reach me at: your email here
 
 <!---
 Ehsanrasheed/Ehsanrasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
