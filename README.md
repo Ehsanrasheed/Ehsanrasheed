@@ -1,10 +1,13 @@
-👋 Hi, I'm @Ehsanrasheed
-🚀 Aspiring DevOps Engineer with a background in MERN Stack
-🌱 Currently learning Kubernetes, Terraform, and AWS
-🛠️ Working with Docker, GitHub Actions, Helm, and CI/CD pipelines
-📫 Reach me at: your email here
+👋 Hi, I'm Muhammad Ehsan Rasheed
 
-<!---
-Ehsanrasheed/Ehsanrasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring DevOps Engineer with a background in MERN Stack development
+
+🌱 Currently learning Kubernetes, Terraform, AWS, and Prometheus + Grafana
+
+🛠️ Working with Docker, GitHub Actions, Helm, CI/CD pipelines, and Linux
+
+☁️ Familiar with AWS EC2, S3, IAM, ECR, and EKS
+
+💻 Final semester BS Computer Science student at COMSATS Lahore
+
+📫 Reach me at: m.ehsanrasheed@gmail.com
